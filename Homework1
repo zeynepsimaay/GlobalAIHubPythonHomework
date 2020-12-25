@@ -1,0 +1,10 @@
+A_str = input('Please enter a value:' )
+print("A is equals to:", A_str, type(A_str)) 
+
+A_float = float(input('Please enter a value:' ))
+print("A is equals to:", A_float, type(A_float)) 
+
+A_int = int(input('Please enter a value:' ))
+print("A is equals to:", A_int, type(A_int)) 
+
+

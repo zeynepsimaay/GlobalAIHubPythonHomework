@@ -1,2 +1,0 @@
-A = input('Please enter a value:' )
-print("A is equals to:", A, type(A)) 
