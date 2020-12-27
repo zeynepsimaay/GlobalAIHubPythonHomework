@@ -1,6 +1,6 @@
 
 num = 3
-studentname = "Zeynep Simay KILINÇ"
+studentname = "Zeynep Simay KILINC"
 while num > 0:
 
     name = input("Please enter your name and surname:")
